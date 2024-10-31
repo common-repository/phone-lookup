@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Phone Lookup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-30 12:49+0000\n"
+"PO-Revision-Date: 2019-08-30 12:51+0000\n"
+"Last-Translator: admin <mikkel@hexio.dk>\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: phoneLookup.php:26
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: phoneLookup.php:52
+msgid "Phone Lookup requires WooCommerce to be installed and active."
+msgstr "Telefon Opslag kræver WooCommerce installeret og aktiveret."
+
+#: admin/stats.php:2
+msgid "Statistics"
+msgstr "Statistik"
+
+#: admin/stats.php:7
+msgid "Total lookups"
+msgstr "Opslag i alt"
+
+#: admin/stats.php:9 admin/stats.php:13 admin/stats.php:29 admin/stats.php:39
+#: admin/stats.php:43 admin/stats.php:48 admin/stats.php:60 admin/stats.php:64
+#: admin/stats.php:68 admin/stats.php:77 admin/stats.php:81 admin/stats.php:85
+#: admin/stats.php:91
+msgid "Loading"
+msgstr "Indlæser"
+
+#: admin/stats.php:12
+msgid "Lookups this month"
+msgstr "Opslag i denne måned"
+
+#: admin/stats.php:16
+msgid "Conversion rate"
+msgstr "Konverteringsrate"
+
+#: admin/stats.php:19
+msgid "From"
+msgstr "Fra"
+
+#: admin/stats.php:23
+msgid "To"
+msgstr "Til"
+
+#: admin/stats.php:28
+msgid "Visitors"
+msgstr "Besøgende"
+
+#: admin/stats.php:35
+msgid "With PhoneLookup"
+msgstr "Med Telefon Opslag"
+
+#: admin/stats.php:42 admin/stats.php:63 admin/stats.php:80
+msgid "Orders"
+msgstr "Ordre"
+
+#: admin/stats.php:47 admin/stats.php:67 admin/stats.php:84
+msgid "Avg time"
+msgstr "Gns. tid"
+
+#: admin/stats.php:57
+msgid "Difference"
+msgstr "Forskel"
+
+#: admin/stats.php:74
+msgid "Without PhoneLookup"
+msgstr "Uden Telefon Opslag"
+
+#: admin/stats.php:90
+msgid "Avg time spent, when customer did lookup:"
+msgstr "Gns. tid brugt, når brugeren har lavet opslag"
+
+#: admin/stats.php:93
+msgid "Avg time is measured at checkout page"
+msgstr "Gns. tid er målt på checkout siden"
+
+#: admin/options.php:14 admin/options.php:26
+msgid "Phone Lookup settings"
+msgstr "Telefon Opslag indstillinger"
+
+#. Name of the plugin
+#: admin/options.php:15
+msgid "Phone Lookup"
+msgstr "Telefon Opslag"
+
+#: admin/options.php:28
+msgid "Get and fill out address by phone number, for WooCommerce."
+msgstr "Hent og udfyld adresse, med telefonnummer, i WooCommerce."
+
+#: admin/options.php:29
+msgid "We only support Denmark at the moment."
+msgstr "Vi supportere kun Danmark indtil videre."
+
+#: admin/options.php:32 admin/options.php:64
+msgid "Contact"
+msgstr "Kontakt"
+
+#: admin/options.php:34
+msgid "for more information."
+msgstr "For mere information."
+
+#: admin/options.php:58
+msgid "Token"
+msgstr "Nøgle"
+
+#: admin/options.php:62
+msgid "Insert token"
+msgstr "Indsæt nøgle"
+
+#: admin/options.php:64
+msgid "to receive a token."
+msgstr "for at modtage en nøgle."
+
+#: admin/options.php:67
+msgid "A/B Test"
+msgstr "A/B Test"
+
+#: admin/options.php:73
+msgid ""
+"Check this to enable A/B Testing, to test whether this plugin makes any "
+"difference for your shop."
+msgstr ""
+"Tjek dette for at aktivere A/B-test. For at teste om dette plugin gør en "
+"forskel for din butik."
+
+#: assets/searchForm.php:2
+msgid "Get address by phone."
+msgstr "Hent adresse via telefonnummer."
+
+#: assets/searchForm.php:7
+msgid "Search"
+msgstr "Søg"
+
+#: assets/searchForm.php:12
+msgid "Result found."
+msgstr "Resultat fundet."
+
+#: assets/searchForm.php:15
+msgid "Insert a valid phone number of 8 digits."
+msgstr "Indsæt et gyldigt telefonnummer på 8 cifre."
+
+#: assets/searchForm.php:18
+msgid "No matches found, try again."
+msgstr ""
+"Vi kunne desværre ikke finde en adresse på dette telefonnummer. Udfyld "
+"istedet felterne manuelt."
+
+#: assets/searchForm.php:21
+msgid "Sorry, a technical error occurred, try again later. "
+msgstr "Der skete en teknisk fejl, prøv igen senere."
+
+#: assets/searchForm.php:22
+msgid "Error code"
+msgstr "Fejl kode"
+
+#. Description of the plugin
+msgid ""
+"WooCommerce extension, adding the possibility to get address by phone lookup."
+msgstr ""
+"WooCommerce udvidelse, tilføjer muligheden for at hente adresser via telefon "
+"opslag."
+
+#. URI of the plugin
+msgid "http://hexio.dk"
+msgstr "http://hexio.dk"
+
+#. Author of the plugin
+msgid "Hexio IVS"
+msgstr "Hexio IVS"
+
+#. Author URI of the plugin
+msgid "https://hexio.dk"
+msgstr ""
+"https://hexio.dk\n"

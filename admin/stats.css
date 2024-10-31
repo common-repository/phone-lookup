@@ -1,0 +1,58 @@
+.plu_stats_container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.plu_stats_card {
+    margin-right: 1rem;
+}
+
+.plu_stats_header {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.plu_stats_content {
+    margin-top: 0.7rem;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center
+}
+
+.plu_stats_card_container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;;
+}
+
+.plu_stats_conv {
+    flex-grow: 1;
+    padding: 0.5rem;
+}
+
+.plu_stats_divider {
+    margin-top: 0.5rem;
+    border-left: rgba(182, 182, 182, 0.48) 2px solid;
+}
+
+.plu_stacked {
+    padding-bottom: 0.3rem;
+}
+
+.plu_stats_sub_stat {
+    padding-top: 0.5rem;
+    text-align: center;
+}
+
+.plu_stats_footer {
+    margin-top: 10px;
+    padding: 10px;
+    border-top: 1px solid #b6b6b6;
+    text-align: center;
+    width: 100%;
+}
+
+.plu_stats_footer i {
+    color: darkgrey;
+    font-size: 0.8em;
+}

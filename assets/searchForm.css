@@ -1,0 +1,34 @@
+#plu_loader {
+    float: right;
+    margin: 2px 0 0 5px;
+}
+#plu_phone {
+    flex: 2;
+    margin-right: 10px;
+    margin-bottom: 0;
+}
+.plu_hidden {
+    display: none;
+}
+#plu_error_tech, #plu_error_no_match {
+    color: red;
+}
+#plu_success {
+    color: green;
+}
+#plu_warning {
+    color: orange;
+}
+.plu_form {
+    display: flex;
+    margin-bottom: 20px;
+}
+#plu_button {
+    flex: 1;
+}
+.plu_status_message {
+    font-size: 80%;
+}
+.plu_hr {
+    margin: 20px 0;
+}
